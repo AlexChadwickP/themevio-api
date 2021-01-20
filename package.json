@@ -1,0 +1,19 @@
+{
+  "name": "themevio-api",
+  "version": "0.0.1",
+  "description": "API for Themev.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexChadwickP/themevio-api.git"
+  },
+  "author": "Alex Chadwick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexChadwickP/themevio-api/issues"
+  },
+  "homepage": "https://github.com/AlexChadwickP/themevio-api#readme"
+}
